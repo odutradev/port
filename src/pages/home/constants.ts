@@ -1,10 +1,10 @@
 export const portfolioData = {
     hero: {
-        name: 'Thiago Silva',
+        name: 'João Dutra',
         title: 'Desenvolvedor Full Stack',
-        subtitle: 'Criando experiências digitais incríveis',
+        subtitle: 'Criando projetos digitais incríveis',
         description:
-            'Sou um desenvolvedor apaixonado por criar soluções web modernas e eficientes. Especializado em React, TypeScript e Node.js, sempre buscando aprender novas tecnologias.',
+            'Sou um desenvolvedor apaixonado por criar soluções web modernas e eficientes. Especializado em React, TypeScript e Node.js, sempre buscando aprender novas tecnologias a todo vapor',
         cvUrl: '/cv.pdf', // opcional
         socialLinks: [
             { name: 'GitHub', url: 'https://github.com/seu-usuario', icon: 'github' },
