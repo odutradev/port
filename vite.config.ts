@@ -40,4 +40,7 @@ export default defineConfig({
     },
   },
   publicDir: 'public',
+      server: {
+      port: 7100
+    }
 });
